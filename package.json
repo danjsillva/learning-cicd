@@ -1,0 +1,14 @@
+{
+  "name": "learning-cicd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:danjsillva/learning-cicd.git",
+  "author": "Daniel Silva",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "koa": "^2.13.0"
+  }
+}
